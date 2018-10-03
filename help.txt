@@ -1,0 +1,6 @@
+Learned gtk+3.0 from websites:
+https://developer.gnome.org/gtk3/3.1/gtk-getting-started.html
+zetcode.com/gui/gtk2/
+Althought the code is not copied, websites were used for reference and learning the concepts.
+Never used glade.
+websites like tuitorialpoints, stack overflow used for some references.
